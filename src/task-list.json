@@ -1,0 +1,28 @@
+{
+    "list": [
+      {
+        "id": 1,
+        "title": "Sáng: Thu gom tại MCP 1",
+        "from": "20/9",
+        "to": "26/9"
+      },
+      {
+        "id": 2,
+        "title": "Sáng: Thu gom tại MCP 3",
+        "from": "10/11",
+        "to": "1/12"
+      },
+      {
+        "id": 3,
+        "title": "Sáng: Thu gom tại MCP 2",
+        "from": "20/9",
+        "to": "26/9"
+      },
+      {
+        "id": 4,
+        "title": "Chiều: Thu gom tại MCP 5",
+        "from": "20/9",
+        "to": "26/9"
+      }
+    ]
+}
